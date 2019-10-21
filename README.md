@@ -33,6 +33,6 @@ To download the tutorials, type
 git clone https://github.com/FNALLPC/pyROOTforCMSDAS
 ```
 
-Now you may close the terminal window and return to your directory tab.  There should be a new directory present called `pyROOTforCMSDAS`, where you may find all of the tutorials and exercises.
+Now you may end the terminal session by typing "exit", close the tab, and return to your directory tab.  There should be a new directory present called `pyROOTforCMSDAS`, where you may find all of the tutorials and exercises.
 
 To setup your environment for the exercises, first click to open the "setupLibraries.ipynb".  Once you have followed the instructions there, open "exercises.ipynb".
