@@ -18,7 +18,7 @@ Click the "Sign in with Jupyter at ACCRE" button. On the following page, select 
 On the following page, you will have the option to select which disk image to boot.  Select the default (presently v5) image and single core machine and click "Spawn".
 
 <p align="center">
-  <img src="spawn_options.png" width="200"/>
+  <img src="spawn_options.png" width="400"/>
 </p>
 
 Now you should see the JupyterHub home directory. Click on "New" then "Terminal" in the top right to launch a new terminal.
